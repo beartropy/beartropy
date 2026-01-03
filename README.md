@@ -11,6 +11,7 @@
 Beartropy is composed of specialized packages that work perfectly together:
 
 * **[ui](https://github.com/beartropy/ui):** High-quality, customizable Blade and Livewire components.
+* **[charts](https://github.com/beartropy/charts):** Chart components for the Beartropy ecosystem.
 * **[tables](https://github.com/beartropy/tables):** Powerful, interactive data tables for the TALL stack.
 * **[settings](https://github.com/beartropy/settings):** Elegant persistent settings management for Laravel applications.
 * **[alert-system](https://github.com/beartropy/alert-system):** Multichannel alert system with database management.
